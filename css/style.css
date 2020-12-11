@@ -186,7 +186,7 @@ section.perfil-container .texto-perfil p {
 }
 
 section.videos {
-  padding: 70px 0 50px 0;
+  padding: 50px 0;
 }
 
 section.videos .box-video {
@@ -464,7 +464,7 @@ footer .footer-block {
     padding-top: 0;
   }
 
-  section.perfil-conatiner .perfil-wraper2 {
+  section.perfil-container .perfil-wraper2 {
     /*
     position: absolute;
     left: 0;
